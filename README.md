@@ -24,7 +24,7 @@ PHP / Laravel / ReactJS / React Native / Expo / JavaScript / CSS / jQuery / MySQ
 
 
 
-#### Social Networks
+### Social Networks
 <p align="left">
 <a href="https://linkedin.com/in/solonalbuquerque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ttt" height="30" width="40" /></a>
 <a href="https://instagram.com/solon.ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ttt" height="30" width="40" /></a>
