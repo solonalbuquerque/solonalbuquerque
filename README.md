@@ -16,7 +16,7 @@ PHP / Laravel / ReactJS / React Native / Expo / JavaScript / CSS / jQuery / MySQ
 
 > ⭐⭐⭐⭐⭐ Advanced level PHP, Laravel, HTML5, CSS, Bootstrap 4/5 CSS, Tailwind CSS, jQuery, Javascript, GitHub, GitFlows, Bitbucket, WordPress (core, API, themes and plugin creation / customization), MySQL, MariaDB, APIs (creation, integration, maintenance, delivery, automation), integrations and consumptions RESTfull, AWS (SES, S3, Lambda, DynamoDB, Cognito, Pipelines, etc.), WHMCS, EAD, e-commerces, server management, DigitalOcean, settings in CloudFlare, micro services, scalability (auto and manual), OWASP, FTP, Apache, Nginx, gateways payment, Trello, PhotoShop, Office, writing texts and messages, Srum, Kanban, Jira.
 
-> ⭐⭐⭐ Average level in blockchain, Flutter, React, TypeScript, Dart, Python, English reading and writing, automated tests, Nuxt.Js, VSCode, BI, Corel, OBS Studio, broadcasts / lives, Shoutcast, audio editing programs, programs video editing (Vegas and Premiere), video conferencing systems and connections.
+> ⭐⭐⭐ Average level in Shopify, Blockchain, Flutter, React, TypeScript, Dart, Python, English reading and writing, automated tests, Nuxt.Js, VSCode, BI, Corel, OBS Studio, broadcasts / lives, Shoutcast, audio editing programs, programs video editing (Vegas and Premiere), video conferencing systems and connections.
 
 > ⭐⭐ AngularJS, Ionic, Node.js, GO, dotNet and many others
 
