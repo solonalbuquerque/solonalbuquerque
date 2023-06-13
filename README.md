@@ -1,11 +1,26 @@
-## <img src="https://user-images.githubusercontent.com/89528428/131755017-6d6343ba-307e-4d87-9fc3-77f33e8dc6a2.gif" width="30"> Hi! I'm Sólon Albuquerque
-#### A Sênior Full Stack Developer and Tech Lead</h3>
 
-PHP / Laravel / ReactJS / React Native / Expo / JavaScript / CSS / jQuery / MySQL / WordPress / AWS / Blockchain / Tokenização / APIs / Meios de Pagamento / PIX / And more!
+# Hi! I'm Sólon Albuquerque
+### Sênior Full Stack Developer passionate about innovation and creatio
+PHP | AWS | React | jQuery | WordPress | API | and more...
 
-<p align="left"> <a href="https://github.com/solonalbuquerque"><img src="https://github-profile-trophy.vercel.app/?username=solonalbuquerque" alt="ttr" /></a> </p>
+<p align="left">
+<a href="https://linkedin.com/in/solonalbuquerque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ttt" height="30" width="40" /></a>
+<a href="https://github.com/solonalbuquerque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ttt" height="30" width="40" /></a>
+</p>
 
-### 🚀 Skills
+<img src="https://github-profile-trophy.vercel.app/?username=solonalbuquerque" alt="solonalbuquerque" />
+
+## About
+I am an experienced web developer passionate about programming. I have extensive experience in PHP, including the development of web systems, websites, and applications. I use the Laravel framework and have strong knowledge in API integration, databases such as MySQL and MariaDB, and front-end technologies like HTML5, CSS, and jQuery. I stay up-to-date with the latest trends and I am always open to exploring new technologies related to PHP. My passion for programming and commitment to quality drive me to deliver exceptional results. I am excited about job opportunities as a web developer and ready to take on challenges and contribute to the success of exciting projects..
+
+I read English easily, I speak/understand a little English.
+
+I am available to change city, state and even country.
+
+I have a valid passport and visa to EUA.
+
+
+## 🚀 Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -22,10 +37,6 @@ PHP / Laravel / ReactJS / React Native / Expo / JavaScript / CSS / jQuery / MySQ
 
 **Outstanding for code quality, commitment, performance, willingness to execute, ready to help with whatever you need, ready to learn and share! 😊**
 
-
-
-### 🌐 Social Networks
-<p align="left">
-<a href="https://linkedin.com/in/solonalbuquerque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ttt" height="30" width="40" /></a>
-<a href="https://instagram.com/solon.ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ttt" height="30" width="40" /></a>
-</p>
+## More...
+Want to know more or talk to me?
+[Call me on Linkedin](https://www.linkedin.com/in/solonalbuquerque/)
