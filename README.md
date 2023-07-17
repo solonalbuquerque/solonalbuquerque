@@ -3,6 +3,7 @@
 ### Sênior Full Stack Developer passionate about innovation and creatio
 PHP | AWS | React | jQuery | WordPress | API | and more...
 
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=solonalbuquerque&theme=darcula&hide_border=true&background=FFFFFF00">
 
 ## About
 I am an experienced web developer passionate about programming. I have extensive experience in PHP, including the development of web systems, websites, and applications. I use the Laravel framework and have strong knowledge in API integration, databases such as MySQL and MariaDB, and front-end technologies like HTML5, CSS, and jQuery. I stay up-to-date with the latest trends and I am always open to exploring new technologies related to PHP. My passion for programming and commitment to quality drive me to deliver exceptional results. I am excited about job opportunities as a web developer and ready to take on challenges and contribute to the success of exciting projects..
@@ -32,5 +33,15 @@ I have a valid passport and visa to EUA.
 **Outstanding for code quality, commitment, performance, willingness to execute, ready to help with whatever you need, ready to learn and share! 😊**
 
 ## More...
-Want to know more or talk to me?
-[Call me on Linkedin](https://www.linkedin.com/in/solonalbuquerque/)
+
+<a href="https://linkedin.com/in/solonalbuquerque/">
+  <img src="https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="Profile View Badge"/>
+</a>
+<br>
+<a href="https://t.me/solonag">
+  <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+<br>
+<a href="https://github.com/solonalbuquerque">
+  <img src="https://komarev.com/ghpvc/?username=solonalbuquerque&style=for-the-badge&color=orange" alt="Profile View Badge"/>
+</a>
