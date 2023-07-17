@@ -38,10 +38,6 @@ I have a valid passport and visa to EUA.
   <img src="https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="Profile View Badge"/>
 </a>
 <br>
-<a href="https://t.me/solonag">
-  <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
-<br>
 <a href="https://github.com/solonalbuquerque">
   <img src="https://komarev.com/ghpvc/?username=solonalbuquerque&style=for-the-badge&color=orange" alt="Profile View Badge"/>
 </a>
