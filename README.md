@@ -3,8 +3,6 @@
 ### Sênior Full Stack Developer passionate about innovation and creatio
 PHP | AWS | React | jQuery | WordPress | API | and more...
 
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=solonalbuquerque&theme=darcula&hide_border=true&background=FFFFFF00">
-
 ## About
 I am an experienced web developer passionate about programming. I have extensive experience in PHP, including the development of web systems, websites, and applications. I use the Laravel framework and have strong knowledge in API integration, databases such as MySQL and MariaDB, and front-end technologies like HTML5, CSS, and jQuery. I stay up-to-date with the latest trends and I am always open to exploring new technologies related to PHP. My passion for programming and commitment to quality drive me to deliver exceptional results. I am excited about job opportunities as a web developer and ready to take on challenges and contribute to the success of exciting projects..
 
